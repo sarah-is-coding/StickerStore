@@ -1,11 +1,11 @@
 [
     {
         "id": 1,
-        "name": "Spiderman Sticker",
-        "category": "Superheroes",
+        "name": "Puppy Paw Print",
+        "category": "Animals",
         "image": "p1_img",
-        "new_price": 0.05,
-        "old_price": 0.10
+        "new_price": 0.04,
+        "old_price": 0.08
     },
     {
         "id": 2,
@@ -33,11 +33,11 @@
     },
     {
         "id": 5,
-        "name": "Puppy Paw Print",
-        "category": "Animals",
+        "name": "Spiderman Sticker",
+        "category": "Superheroes",
         "image": "p5_img",
-        "new_price": 0.04,
-        "old_price": 0.08
+        "new_price": 0.05,
+        "old_price": 0.10
     },
     {
         "id": 6,
@@ -158,5 +158,21 @@
         "image": "p20_img",
         "new_price": 0.07,
         "old_price": 0.14
-    }
+    },
+    {
+        "id": 21,
+        "name": "Batman Logo Sticker",
+        "category": "Superheroes",
+        "image": "p21_img",
+        "new_price": 0.05,
+        "old_price": 0.10
+    },
+    {
+        "id": 22,
+        "name": "Wonder Woman Emblem",
+        "category": "Superheroes",
+        "image": "p22_img",
+        "new_price": 0.05,
+        "old_price": 0.10
+    },
 ]
