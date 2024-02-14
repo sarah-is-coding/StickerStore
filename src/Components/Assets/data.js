@@ -8,7 +8,7 @@ let data_product = [
         "id": 1,
         "name": "Puppy Paw Print",
         "category": "Animals",
-        "image": "p1_img",
+        "image": p1_img,
         "new_price": 0.04,
         "old_price": 0.08
     },
@@ -16,7 +16,7 @@ let data_product = [
         "id": 2,
         "name": "Penguin Sticker",
         "category": "Animals",
-        "image": "p2_img",
+        "image": p2_img,
         "new_price": 0.05,
         "old_price": 0.10
     },
@@ -24,7 +24,7 @@ let data_product = [
         "id": 3,
         "name": "Lion Emblem",
         "category": "Animals",
-        "image": "p3_img",
+        "image": p3_img,
         "new_price": 0.05,
         "old_price": 0.10
     },
@@ -32,7 +32,7 @@ let data_product = [
         "id": 4,
         "name": "Cute Cat Sticker",
         "category": "Animals",
-        "image": "p4_img",
+        "image": p4_img,
         "new_price": 0.04,
         "old_price": 0.08
     },
